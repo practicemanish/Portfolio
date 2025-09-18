@@ -3,9 +3,10 @@ import { FiMenu, FiX } from "react-icons/fi";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import {Link} from "react-scroll";
 import { IoMdMenu } from "react-icons/io";
-import pic from "../../../public/photo.avif";
+// import pic from "../../../public/photo.avif";
 import { MdOutlineMenu } from "react-icons/md";
 import { AiOutlineClose } from "react-icons/ai";
+import pic from "../../public/photo.avif";
 
 
 
