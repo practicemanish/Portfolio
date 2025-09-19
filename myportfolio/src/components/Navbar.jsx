@@ -38,7 +38,7 @@ const Navbar = () =>{
   ]
   return(
     <>
-    <div className="max-w-screen-2xl container mx-auto px-4  md:px-20 h-16 shadow-md fixed top-0 left-0 right-0 ">
+    <div className="max-w-screen-2xl container bg-white mx-auto px-4  md:px-20 h-16 shadow-md fixed top-0 left-0 right-0  ">
       <div className="flex justify-between h-16 ">
         <div className="flex space-x-2">
           <img src={pic} className="h-12 w-12 rounded-full" alt="menu icon" />
